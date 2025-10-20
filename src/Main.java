@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("votre age est "+age+" ans.");
 
-
+int s;
 
 
     }
