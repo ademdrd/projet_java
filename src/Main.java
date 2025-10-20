@@ -7,6 +7,7 @@ public class Main {
           age= sc.nextInt();
 
         System.out.println("votre age est "+age+" ans.");
+        int s;
 
 
 
