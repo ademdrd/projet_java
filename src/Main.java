@@ -4,7 +4,7 @@ public class Main {
         int age;
         Scanner sc =new Scanner(System.in);
         System.out.println("quelle est votre age : ");
-        public  age= sc.nextInt();
+          age= sc.nextInt();
 
         System.out.println("votre age est "+age+" ans.");
 
